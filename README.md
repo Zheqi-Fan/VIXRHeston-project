@@ -1,7 +1,6 @@
 # VIXRHeston
 <!-- Badges -->
 [![PyPI](https://img.shields.io/pypi/v/VIXRHeston)](https://pypi.org/project/VIXRHeston/)
-[![Python](https://img.shields.io/pypi/pyversions/VIXRHeston)](https://pypi.org/project/VIXRHeston/)
 [![License](https://img.shields.io/pypi/l/VIXRHeston)](https://pypi.org/project/VIXRHeston/)
 
 <!-- Optional: GitHub repo badge(s) -->
@@ -36,5 +35,6 @@ print(VIX)
 ## License
 
 MIT License. See `LICENSE`.
+
 
 
