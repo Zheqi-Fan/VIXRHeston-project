@@ -1,6 +1,6 @@
 # VIXRHeston
 <!-- Badges -->
-[![PyPI](https://img.shields.io/pypi/v/VIXRHeston)](https://pypi.org/project/VIXRHeston/)
+[![PyPI](https://img.shields.io/pypi/v/VIXRHeston?label=PyPI)](https://pypi.org/project/VIXRHeston/)
 [![License](https://img.shields.io/pypi/l/VIXRHeston)](https://pypi.org/project/VIXRHeston/)
 
 <!-- Optional: GitHub repo badge(s) -->
@@ -38,6 +38,7 @@ MIT License. See `LICENSE`.
 
 ## References
 Ye, Y., Fan, Z., & Kwok, Y. K. (2026), "VIX term structure in the rough Heston model via Markovian approximation ", *Journal of Futures Markets*, Forthcoming.
+
 
 
 
