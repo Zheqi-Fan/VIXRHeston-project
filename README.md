@@ -1,4 +1,8 @@
 # VIXRHeston
+[![PyPI](https://img.shields.io/pypi/v/VIXRHeston.svg)](https://pypi.org/project/VIXRHeston/)
+[![Python versions](https://img.shields.io/pypi/pyversions/VIXRHeston.svg)](https://pypi.org/project/VIXRHeston/)
+[![License](https://img.shields.io/pypi/l/VIXRHeston.svg)](https://pypi.org/project/VIXRHeston/)
+[![Downloads](https://img.shields.io/pypi/dm/VIXRHeston.svg)](https://pypi.org/project/VIXRHeston/)
 
 A small Python package for computing the squared VIX (VIX²) under a (rough) Heston-type setup.
 
@@ -27,4 +31,5 @@ print(VIX)
 ```
 
 ## License
+
 MIT License. See `LICENSE`.
