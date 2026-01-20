@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="VIXRHeston",
-    version="0.1.0",
+    version="0.1.2",
     description="VIX term structure in the rough Heston model via Markovian approximation",
     long_description=open("README.md", encoding="utf-8").read(),
     long_description_content_type="text/markdown",
@@ -13,4 +13,5 @@ setup(
         "numpy",
         "scipy",
     ],
+
 )
