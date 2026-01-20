@@ -1,8 +1,8 @@
 # VIXRHeston
 <!-- Badges -->
-[![PyPI version](https://img.shields.io/pypi/v/VIXRHeston.svg)](https://pypi.org/project/VIXRHeston/)
-[![Python versions](https://img.shields.io/pypi/pyversions/VIXRHeston.svg)](https://pypi.org/project/VIXRHeston/)
-[![License](https://img.shields.io/pypi/l/VIXRHeston.svg)](https://pypi.org/project/VIXRHeston/)
+[![PyPI](https://img.shields.io/pypi/v/VIXRHeston)](https://pypi.org/project/VIXRHeston/)
+[![Python](https://img.shields.io/pypi/pyversions/VIXRHeston)](https://pypi.org/project/VIXRHeston/)
+[![License](https://img.shields.io/pypi/l/VIXRHeston)](https://pypi.org/project/VIXRHeston/)
 
 <!-- Optional: GitHub repo badge(s) -->
 [![GitHub repo](https://img.shields.io/badge/GitHub-Repo-black)](https://github.com/Zheqi-Fan/VIXRHeston-project)
@@ -36,4 +36,5 @@ print(VIX)
 ## License
 
 MIT License. See `LICENSE`.
+
 
