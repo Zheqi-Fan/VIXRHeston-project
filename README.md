@@ -36,5 +36,9 @@ print(VIX)
 
 MIT License. See `LICENSE`.
 
+## References
+Ye, Y., Fan, Z., & Kwok, Y. K. (2026), "VIX term structure in the rough Heston model via Markovian approximation ", *Journal of Futures Markets*, Forthcoming.
+
+
 
 
