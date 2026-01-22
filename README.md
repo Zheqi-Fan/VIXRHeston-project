@@ -3,7 +3,6 @@
 [![PyPI](https://img.shields.io/pypi/v/VIXRHeston?label=PyPI)](https://pypi.org/project/VIXRHeston/)
 [![License](https://img.shields.io/pypi/l/VIXRHeston?label=License)](https://pypi.org/project/VIXRHeston/)
 [![GitHub repo](https://img.shields.io/badge/GitHub-Repo-black)](https://github.com/Zheqi-Fan/VIXRHeston-project)
-[![Downloads/month](https://img.shields.io/pypi/dm/VIXRHeston?label=Downloads)](https://pypi.org/project/VIXRHeston/)
 [![Downloads/week](https://img.shields.io/pypi/dw/VIXRHeston?label=Downloads)](https://pypi.org/project/VIXRHeston/)
 
 **VIXRHeston** is a lightweight Python package for computing the **VIX term structure** in the **rough Heston** model via a **Markovian (lifted Heston) approximation**. Using the paper’s key result that, under the lifted model, **squared VIX (VIX²)** admits an **analytical expression** (linear in the Markovian variance components), the package evaluates
@@ -42,6 +41,7 @@ MIT License. See `LICENSE`.
 
 ## References
 Ye, Y., Fan, Z., & Kwok, Y. K. (2026), "VIX term structure in the rough Heston model via Markovian approximation", *Journal of Futures Markets*, Forthcoming.
+
 
 
 
